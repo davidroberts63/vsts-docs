@@ -68,8 +68,8 @@ None
         </tr>
     </thead>
     <tr>
-        <td>Path to solution, packages.config, or project.json</td>
-        <td>
+        <td>restoreSolution</td>
+        <td>Path to solution, packages.config, or project.json
             Copy the **Solution** argument in your [Visual Studio Build step](../../tasks/build/visual-studio-build.md) and paste it
             here, or create a link using the Link button in the information panel.
         </td>
